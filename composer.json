@@ -1,0 +1,21 @@
+{
+  "name": "Data Viewer",
+  "description": "Data Viewer",
+  "keywords": ["Data Viewer"],
+  "license": "TTT",
+  "authors": [
+    {
+      "name": "Azam Rajabov",
+      "email": "azamrajabov@gmail.com",
+      "role": "Creator / Main Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "DataViewer\\": "classes/"
+    }
+  }
+}
