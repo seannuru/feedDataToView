@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <item>
+        <ID>0</ID>
+        <Name>XML Bread</Name>
+        <Description>Whole grain bread</Description>
+        <ReleaseDate>1992-01-01 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>4</Rating>
+        <Price>$2.5</Price>
+    </item>
+    <item>
+        <ID>1</ID>
+        <Name>Milk</Name>
+        <Description>Low fat milk</Description>
+        <ReleaseDate>1995-10-01 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>3</Rating>
+        <Price>$3.5</Price>
+    </item>
+    <item>
+        <ID>2</ID>
+        <Name>Vint soda</Name>
+        <Description>Americana Variety - Mix of 6 flavors</Description>
+        <ReleaseDate>2000-10-01 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>3</Rating>
+        <Price>$20.9</Price>
+    </item>
+    <item>
+        <ID>3</ID>
+        <Name>Havina Cola</Name>
+        <Description>The Original Key Lime Cola</Description>
+        <ReleaseDate>2005-10-01 00:00:00</ReleaseDate>
+        <DiscontinuedDate>2006-10-01 00:00:00</DiscontinuedDate>
+        <Rating>3</Rating>
+        <Price>$19.9</Price>
+    </item>
+    <item>
+        <ID>4</ID>
+        <Name>Fruit Punch</Name>
+        <Description>Mango flavor, 8.3 Ounce Cans (Pack of 24)</Description>
+        <ReleaseDate>2003-01-05 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>3</Rating>
+        <Price>$22.99</Price>
+    </item>
+    <item>
+        <ID>5</ID>
+        <Name>Cranberry Juice</Name>
+        <Description>16-Ounce Plastic Bottles (Pack of 12)</Description>
+        <ReleaseDate>2006-08-04 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>3</Rating>
+        <Price>$22.8</Price>
+    </item>
+    <item>
+        <ID>6</ID>
+        <Name>Pink Lemonade</Name>
+        <Description>36 Ounce Cans (Pack of 3)</Description>
+        <ReleaseDate>2006-11-05 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>3</Rating>
+        <Price>$18.8</Price>
+    </item>
+    <item>
+        <ID>7</ID>
+        <Name>DVD Player</Name>
+        <Description>1080P Upconversion DVD Player</Description>
+        <ReleaseDate>2006-11-15 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>5</Rating>
+        <Price>$35.88</Price>
+    </item>
+    <item>
+        <ID>8</ID>
+        <Name>LCD HDTV</Name>
+        <Description>42 inch 1080p LCD with Built-in Blu-ray Disc Player</Description>
+        <ReleaseDate>2008-05-08 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>3</Rating>
+        <Price>$1088.8</Price>
+    </item>
+    <item>
+        <ID>9</ID>
+        <Name>Lemonade</Name>
+        <Description>Classic, refreshing lemonade (Single bottle)</Description>
+        <ReleaseDate>1970-02-01 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>7</Rating>
+        <Price>$1.01</Price>
+    </item>
+    <item>
+        <ID>10</ID>
+        <Name>Coffee</Name>
+        <Description>Bulk size can of instant coffee</Description>
+        <ReleaseDate>1982-12-31 00:00:00</ReleaseDate>
+        <DiscontinuedDate/>
+        <Rating>1</Rating>
+        <Price>$6.99</Price>
+    </item>
+</data>
