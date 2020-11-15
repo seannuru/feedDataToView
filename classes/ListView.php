@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by IntelliJ IDEA.
- * User: azam
- * Date: 09/04/2018
- * Time: 15:39
- */
-
 namespace DataViewer;
 
 /**
