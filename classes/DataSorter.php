@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by IntelliJ IDEA.
- * User: azam
- * Date: 09/04/2018
- * Time: 16:38
- */
 namespace DataViewer;
 
 class DataSorter
